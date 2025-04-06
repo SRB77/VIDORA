@@ -1,0 +1,20 @@
+{
+  "name": "vidora",
+  "version": "1.0.0",
+  "description": "a backend vedio streaming platform where we can do CRUD operation , and it's a end to end project .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodeJs",
+    "react",
+    "Express",
+    "mongoDb",
+    "mongoose",
+    "REST"
+  ],
+  "author": "Soumyaranjan",
+  "license": "ISC"
+}
